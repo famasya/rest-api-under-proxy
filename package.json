@@ -1,0 +1,11 @@
+{
+  "name": "request-under-proxy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abid Famasya <ping@famasya.com> (http://famasya.com/)",
+  "license": "BSD-2-Clause"
+}
